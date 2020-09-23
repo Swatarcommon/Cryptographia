@@ -1,0 +1,30 @@
+D:\Crypto\Дз\Карленок Юрий 3-4-1\Second_Task\Second_Task\bin\Debug\Second_Task.exe.config
+D:\Crypto\Дз\Карленок Юрий 3-4-1\Second_Task\Second_Task\bin\Debug\Second_Task.exe
+D:\Crypto\Дз\Карленок Юрий 3-4-1\Second_Task\Second_Task\bin\Debug\Second_Task.pdb
+D:\Crypto\Дз\Карленок Юрий 3-4-1\Second_Task\Second_Task\obj\Debug\Second_Task.csprojAssemblyReference.cache
+D:\Crypto\Дз\Карленок Юрий 3-4-1\Second_Task\Second_Task\obj\Debug\MainWindow.g.cs
+D:\Crypto\Дз\Карленок Юрий 3-4-1\Second_Task\Second_Task\obj\Debug\App.g.cs
+D:\Crypto\Дз\Карленок Юрий 3-4-1\Second_Task\Second_Task\obj\Debug\Second_Task_MarkupCompile.cache
+D:\Crypto\Дз\Карленок Юрий 3-4-1\Second_Task\Second_Task\obj\Debug\Second_Task_MarkupCompile.lref
+D:\Crypto\Дз\Карленок Юрий 3-4-1\Second_Task\Second_Task\obj\Debug\MainWindow.baml
+D:\Crypto\Дз\Карленок Юрий 3-4-1\Second_Task\Second_Task\obj\Debug\Second_Task.g.resources
+D:\Crypto\Дз\Карленок Юрий 3-4-1\Second_Task\Second_Task\obj\Debug\Second_Task.Properties.Resources.resources
+D:\Crypto\Дз\Карленок Юрий 3-4-1\Second_Task\Second_Task\obj\Debug\Second_Task.csproj.GenerateResource.cache
+D:\Crypto\Дз\Карленок Юрий 3-4-1\Second_Task\Second_Task\obj\Debug\Second_Task.csproj.CoreCompileInputs.cache
+D:\Crypto\Дз\Карленок Юрий 3-4-1\Second_Task\Second_Task\obj\Debug\Second_Task.exe
+D:\Crypto\Дз\Карленок Юрий 3-4-1\Second_Task\Second_Task\obj\Debug\Second_Task.pdb
+D:\Studying\Course_3\Second_2sem\Сryptographic methods of information security\DZ_2\Second_Task\Second_Task\bin\Debug\Second_Task.exe.config
+D:\Studying\Course_3\Second_2sem\Сryptographic methods of information security\DZ_2\Second_Task\Second_Task\bin\Debug\Second_Task.exe
+D:\Studying\Course_3\Second_2sem\Сryptographic methods of information security\DZ_2\Second_Task\Second_Task\bin\Debug\Second_Task.pdb
+D:\Studying\Course_3\Second_2sem\Сryptographic methods of information security\DZ_2\Second_Task\Second_Task\obj\Debug\Second_Task.csprojAssemblyReference.cache
+D:\Studying\Course_3\Second_2sem\Сryptographic methods of information security\DZ_2\Second_Task\Second_Task\obj\Debug\MainWindow.g.cs
+D:\Studying\Course_3\Second_2sem\Сryptographic methods of information security\DZ_2\Second_Task\Second_Task\obj\Debug\App.g.cs
+D:\Studying\Course_3\Second_2sem\Сryptographic methods of information security\DZ_2\Second_Task\Second_Task\obj\Debug\Second_Task_MarkupCompile.cache
+D:\Studying\Course_3\Second_2sem\Сryptographic methods of information security\DZ_2\Second_Task\Second_Task\obj\Debug\Second_Task_MarkupCompile.lref
+D:\Studying\Course_3\Second_2sem\Сryptographic methods of information security\DZ_2\Second_Task\Second_Task\obj\Debug\MainWindow.baml
+D:\Studying\Course_3\Second_2sem\Сryptographic methods of information security\DZ_2\Second_Task\Second_Task\obj\Debug\Second_Task.g.resources
+D:\Studying\Course_3\Second_2sem\Сryptographic methods of information security\DZ_2\Second_Task\Second_Task\obj\Debug\Second_Task.Properties.Resources.resources
+D:\Studying\Course_3\Second_2sem\Сryptographic methods of information security\DZ_2\Second_Task\Second_Task\obj\Debug\Second_Task.csproj.GenerateResource.cache
+D:\Studying\Course_3\Second_2sem\Сryptographic methods of information security\DZ_2\Second_Task\Second_Task\obj\Debug\Second_Task.csproj.CoreCompileInputs.cache
+D:\Studying\Course_3\Second_2sem\Сryptographic methods of information security\DZ_2\Second_Task\Second_Task\obj\Debug\Second_Task.exe
+D:\Studying\Course_3\Second_2sem\Сryptographic methods of information security\DZ_2\Second_Task\Second_Task\obj\Debug\Second_Task.pdb

@@ -1,0 +1,13 @@
+D:\university\3 course\2 sem\Crypto\labs\Lab3\Lab3\bin\Debug\Lab3.exe.config
+D:\university\3 course\2 sem\Crypto\labs\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\university\3 course\2 sem\Crypto\labs\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\university\3 course\2 sem\Crypto\labs\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+D:\university\3 course\2 sem\Crypto\labs\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\university\3 course\2 sem\Crypto\labs\Lab3\Lab3\obj\Debug\Lab3.exe
+D:\university\3 course\2 sem\Crypto\labs\Lab3\Lab3\obj\Debug\Lab3.pdb
+D:\Studying\Course_3\Second_2sem\Сryptographic methods of information security\Lab_03\Lab3\bin\Debug\Lab3.exe.config
+D:\Studying\Course_3\Second_2sem\Сryptographic methods of information security\Lab_03\Lab3\bin\Debug\Lab3.exe
+D:\Studying\Course_3\Second_2sem\Сryptographic methods of information security\Lab_03\Lab3\bin\Debug\Lab3.pdb
+D:\Studying\Course_3\Second_2sem\Сryptographic methods of information security\Lab_03\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+D:\Studying\Course_3\Second_2sem\Сryptographic methods of information security\Lab_03\Lab3\obj\Debug\Lab3.exe
+D:\Studying\Course_3\Second_2sem\Сryptographic methods of information security\Lab_03\Lab3\obj\Debug\Lab3.pdb

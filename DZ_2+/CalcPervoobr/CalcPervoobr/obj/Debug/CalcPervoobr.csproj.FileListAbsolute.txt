@@ -1,0 +1,12 @@
+D:\Studying\Course_3\Second_2sem\Сryptographic methods of information security\DZ_2\CalcPervoobr\CalcPervoobr\bin\Debug\CalcPervoobr.exe.config
+D:\Studying\Course_3\Second_2sem\Сryptographic methods of information security\DZ_2\CalcPervoobr\CalcPervoobr\bin\Debug\CalcPervoobr.exe
+D:\Studying\Course_3\Second_2sem\Сryptographic methods of information security\DZ_2\CalcPervoobr\CalcPervoobr\bin\Debug\CalcPervoobr.pdb
+D:\Studying\Course_3\Second_2sem\Сryptographic methods of information security\DZ_2\CalcPervoobr\CalcPervoobr\obj\Debug\CalcPervoobr.csprojAssemblyReference.cache
+D:\Studying\Course_3\Second_2sem\Сryptographic methods of information security\DZ_2\CalcPervoobr\CalcPervoobr\obj\Debug\CalcPervoobr.exe
+D:\Studying\Course_3\Second_2sem\Сryptographic methods of information security\DZ_2\CalcPervoobr\CalcPervoobr\obj\Debug\CalcPervoobr.pdb
+D:\Studying\Course_3\Second_2sem\Сryptographic methods of information security\DZ_2+\CalcPervoobr\CalcPervoobr\bin\Debug\CalcPervoobr.exe.config
+D:\Studying\Course_3\Second_2sem\Сryptographic methods of information security\DZ_2+\CalcPervoobr\CalcPervoobr\bin\Debug\CalcPervoobr.exe
+D:\Studying\Course_3\Second_2sem\Сryptographic methods of information security\DZ_2+\CalcPervoobr\CalcPervoobr\bin\Debug\CalcPervoobr.pdb
+D:\Studying\Course_3\Second_2sem\Сryptographic methods of information security\DZ_2+\CalcPervoobr\CalcPervoobr\obj\Debug\CalcPervoobr.csprojAssemblyReference.cache
+D:\Studying\Course_3\Second_2sem\Сryptographic methods of information security\DZ_2+\CalcPervoobr\CalcPervoobr\obj\Debug\CalcPervoobr.exe
+D:\Studying\Course_3\Second_2sem\Сryptographic methods of information security\DZ_2+\CalcPervoobr\CalcPervoobr\obj\Debug\CalcPervoobr.pdb
